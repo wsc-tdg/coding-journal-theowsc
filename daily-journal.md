@@ -11,3 +11,13 @@ an output is a peice of data or information sent from a computer typicaly a reac
 
 ### What is one thing you are most interested in learning about creating websites
 ⌨️ I am most interested about making the websites and doing the coding for something i can actually use 
+
+Html
+<body> the body contains things you want the veiwer to see</body>
+<p>This is a paragraph</p>
+<h1>this is a heading</h1>
+<h2>the bigger the number the smaller the heading size</h2>
+<h6>This is the smallest</h6>
+</head>
+<Head> this is stuff you dont want the veiwer to see, like font size
+</Head>
