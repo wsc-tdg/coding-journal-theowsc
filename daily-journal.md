@@ -18,6 +18,6 @@ Html
 <h1>this is a heading</h1>
 <h2>the bigger the number the smaller the heading size</h2>
 <h6>This is the smallest</h6>
-</head>
-<Head> this is stuff you dont want the veiwer to see, like font size
-</Head>
+</Body>
+<Head> the head is the stuff you dont want the veiwer to see, like font size
+</Head
