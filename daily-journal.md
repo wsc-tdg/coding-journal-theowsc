@@ -12,14 +12,32 @@ an output is a peice of data or information sent from a computer typicaly a reac
 ### What is one thing you are most interested in learning about creating websites
 ⌨️ I am most interested about making the websites and doing the coding for something i can actually use 
 
-# Html
-# <body> the body contains things you want the veiwer to see</body>
-# <p>This is a paragraph</p>
-# <h1>this is a heading</h1>
-# <h2>the bigger the number the smaller the heading size</h2>
-# <h6>This is the smallest</h6>
-# </Body>
-# <Head> the head is the stuff you dont want the veiwer to see, like font size
-# </Head>
+### Html
+### The body
+```
+<body> the body contains things you want the veiwer to see</body>
+```
 
-### what kind of information could someone learn about you by looking at websotes you have accounts on?
+### paragraphs
+```
+ <p> paragraphs are general text</p>
+```
+### head
+```
+<h1>biggest heading</h1>
+```
+```
+<h2>this is heading 2 </h2>
+<h6>This is the smallest heading </h6>
+
+</Body>
+
+### the Head
+<Head> the head is the stuff you dont want the veiwer to see, like font size
+</Head>
+
+### what kind of information could someone learn about you by looking at websotes you have accounts on? 
+your passwords
+your name
+age
+
