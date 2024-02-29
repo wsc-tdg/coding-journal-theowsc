@@ -22,19 +22,23 @@ an output is a peice of data or information sent from a computer typicaly a reac
 ```
  <p> paragraphs are general text</p>
 ```
-### head
+### headings
 ```
 <h1>biggest heading</h1>
 ```
 ```
 <h2>this is heading 2 </h2>
+```
 <h6>This is the smallest heading </h6>
-
+```
 </Body>
 
 ### the Head
+```
 <Head> the head is the stuff you dont want the veiwer to see, like font size
+```
 </Head>
+
 
 ### what kind of information could someone learn about you by looking at websotes you have accounts on? 
 your passwords
