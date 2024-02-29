@@ -44,6 +44,11 @@ an output is a peice of data or information sent from a computer typicaly a reac
 ol/li
 ```
 
+### Linking css
+```
+<link rel="stylesheet" href="style.css">
+```
+
 ### what kind of information could someone learn about you by looking at websotes you have accounts on? 
 your passwords
 your name
