@@ -56,6 +56,11 @@ age
 
 ### Lesson 7: List two ir three ideas for a website
 space simulation
+art
+
+### Lesson 9: What rules would you make for people who want to use your creative work?
+credit me and if it is very important or usefull i would want them to pay me for the lisence to use it
+
 
 
 
