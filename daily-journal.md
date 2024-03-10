@@ -61,6 +61,11 @@ art
 ### Lesson 9: What rules would you make for people who want to use your creative work?
 credit me and if it is very important or usefull i would want them to pay me for the lisence to use it
 
+### Lesson 10: what is one thing that you think makes a website trusworthy? what is one think that makes it untrustworthy?
+what makes a website trustworthy is a regular .com/govt/org and https:// and things with out that are often untrustworthy. 
 
-
+quailty of the website
+https
+check if google trusts it 
+how well known  ![smile-fade-smile-fade-to-dumb](https://github.com/wsc-tdg/coding-journal-theowsc/assets/159727799/33106837-cdfb-4df4-a9d8-a51c5544302f)
 
