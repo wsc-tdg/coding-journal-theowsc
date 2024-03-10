@@ -67,5 +67,8 @@ what makes a website trustworthy is a regular .com/govt/org and https:// and thi
 quailty of the website
 https
 check if google trusts it 
-how well known  ![smile-fade-smile-fade-to-dumb](https://github.com/wsc-tdg/coding-journal-theowsc/assets/159727799/33106837-cdfb-4df4-a9d8-a51c5544302f)
+how well known it is
+![smile-fade-smile-fade-to-dumb](https://github.com/wsc-tdg/coding-journal-theowsc/assets/159727799/33106837-cdfb-4df4-a9d8-a51c5544302f)
+make it wellmade add terms and condtions and privacy polocy 
+![Sad_Spongebob (1)](https://github.com/wsc-tdg/coding-journal-theowsc/assets/159727799/7dc8f08b-af15-4c4a-adcf-a508fef00e58)
 
