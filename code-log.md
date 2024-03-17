@@ -114,3 +114,5 @@
 ```
 [title - what you want people to see](www.example.com)
 ```
+### Lesson 12: what do you want to acheive in your website
+get the css and images done
